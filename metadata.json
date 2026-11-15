@@ -1,0 +1,8 @@
+{
+  "name": "Sistem Informasi Desa Pinangsari",
+  "description": "Website resmi Sistem Informasi Desa Pinangsari, Kecamatan Ciasem, Kabupaten Subang, Jawa Barat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
